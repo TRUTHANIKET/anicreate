@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #ecf1fd;
+    /* #fe013e */
+}
+.navi{
+    display: flex;
+    justify-content: center;
+}
+.navi a{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+  
+    
+}
+.ahov{
+    transition: color 0.5s ,font-size 0.5s;
+}
+.ahov:hover{
+    font-size: 20px;
+    color: #ff013e;
+    text-shadow: 5px 5px 15px rgba(255,1,62,0.2);
+}
+
+
+
+
+
+
+
+
+/* ignoore this for now */
+
+
+/* .hellot{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 120px;
+  
+    font-size: 0.9rem;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    cursor: pointer;
+transition:  height 0.5s,width 0.5s,left 0.5s;
+z-index: 1;
+}
+
+.hellot:hover{
+    height: 150px;
+    width: 150px;
+    left: 40%;
+} */
+
+
+/* ignore part ends */
