@@ -103,4 +103,18 @@ justify-content: space-between;
 
 }
 
+#battan{
+    color: white;
+    background-color:#ff013e;
+    border: none;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    font-size: 10px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 150%;
+    left: 50%;
+}
+
 
