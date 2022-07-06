@@ -125,7 +125,7 @@ justify-content: center;
 .quickinfo{
     background-color:#F3F5FA;
     height: 200px;
-    width: 90vw;
+    width: 45vw;
    position: absolute;
    transform: translate(-50%,-50%);
    top: 115%;
@@ -137,8 +137,8 @@ justify-content: center;
 .ytimg_1{
 position: absolute;
 transform: translate(-50%,-50%);
-top: 40%;
-left: 40%;
+top: 35%;
+left: 25%;
 }
 
 #yuthuber{
@@ -148,16 +148,25 @@ height: 60px;
 .bigtextyt{
 position: absolute;
 transform: translate(-50%,-50%);
-top: 40%;
-left: 60%;
+top: 55%;
+left: 57%;
 }
+.yttexbox1 p{
+font-size: 13px;
+}
+.yttexbox2 p{
+    font-size: 13px;
+}
+@media only screen and (max-width:760px){
 
-@media only screen and (max-width:560px){
+    .quickinfo{
+        width: 90vw;
+    }
 
     .ytimg_1{
         position: absolute;
         transform: translate(-50%,-50%);
-        top: 40%;
+        top: 35%;
         left: 25%;
         }
         
@@ -166,11 +175,11 @@ left: 60%;
         }
         
         .bigtextyt{
-            width: 90%;
+            width: 59%;
         position: absolute;
         transform: translate(-50%,-50%);
-        top: 40%;
-        left: 84%;
+        top: 55%;
+        left: 70%;
         }
 }
 
