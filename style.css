@@ -148,8 +148,22 @@ height: 60px;
 .bigtextyt{
 position: absolute;
 transform: translate(-50%,-50%);
-top: 55%;
+top: 40%;
 left: 57%;
+}
+
+.yttexbox1{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 80%;
+    left: 30%;
+}
+
+.yttexbox2{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 80%;
+    left: 70%;
 }
 .yttexbox1 p{
 font-size: 13px;
@@ -162,7 +176,20 @@ font-size: 13px;
     .quickinfo{
         width: 90vw;
     }
-
+    .yttexbox1{
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top: 80%;
+        left: 30%;
+        
+    }
+    
+    .yttexbox2{
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top: 80%;
+        left: 70%;
+    }
     .ytimg_1{
         position: absolute;
         transform: translate(-50%,-50%);
@@ -178,7 +205,7 @@ font-size: 13px;
             width: 59%;
         position: absolute;
         transform: translate(-50%,-50%);
-        top: 55%;
+        top: 40%;
         left: 70%;
         }
 }
