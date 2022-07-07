@@ -160,14 +160,14 @@ left: 57%;
 .yttexbox1{
     position: absolute;
     transform: translate(-50%,-50%);
-    top: 80%;
+    top: 70%;
     left: 30%;
 }
 
 .yttexbox2{
     position: absolute;
     transform: translate(-50%,-50%);
-    top: 80%;
+    top: 70%;
     left: 70%;
 }
 .yttexbox1 p{
@@ -205,7 +205,7 @@ left: 57%;
     .yttexbox1{
         position: absolute;
         transform: translate(-50%,-50%);
-        top: 80%;
+        top: 70%;
         left: 25%;
         
         
@@ -216,7 +216,7 @@ left: 57%;
     .yttexbox2{
         position: absolute;
         transform: translate(-50%,-50%);
-        top: 80%;
+        top: 70%;
         left: 70%;
      
     }
