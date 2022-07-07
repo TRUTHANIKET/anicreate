@@ -134,13 +134,20 @@ justify-content: center;
     color: black;
     border-radius: 20px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    transition: height 0.5s,width 0.5s;
+    cursor: pointer;
   
+}
+
+.quickinfo:hover{
+    height: 220px;
+    width: 55vw;
 }
 .ytimg_1{
 position: absolute;
 transform: translate(-50%,-50%);
 top: 35%;
-left: 25%;
+left: 35%;
 }
 
 #yuthuber{
@@ -170,14 +177,8 @@ left: 57%;
     top: 70%;
     left: 70%;
 }
-.yttexbox1 p{
-    font-size:18px;
-    font-weight: bold;
-}
-.yttexbox2 p{
-    font-size: 18px;
-    font-weight: bold;
-}
+
+
 .visibleh7{
     display:block;
  }
@@ -197,8 +198,15 @@ left: 57%;
     top: 150%;
     left: 50%;
 }
+.yttexbox2 p{
+    font-size: 30px;
+    font-weight: bold;
+}
 
-
+.yttexbox1 p{
+    font-size: 30px;
+    font-weight: bold;
+}
 
 
 
@@ -231,7 +239,14 @@ left: 57%;
 .shorth7{
     display:block;
 }
-
+.yttexbox1 p{
+    font-size:18px;
+    font-weight: bold;
+}
+.yttexbox2 p{
+    font-size:18px;
+    font-weight: bold;
+}
 .bigtextyt p{
     font-size: 22px;
     font-weight: bold;
