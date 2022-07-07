@@ -190,13 +190,14 @@ left: 57%;
 .myspenigtex h2{
     font-family: 'Radio Canada', sans-serif;
 }
-.myspenigtex
+.myspecialty_1
 {
     position:absolute;
     transform: translate(-50%,-50%);
     top: 150%;
     left: 50%;
 }
+
 
 
 
@@ -260,7 +261,7 @@ left: 57%;
         position: absolute;
         transform: translate(-50%,-50%);
         top: 35%;
-        left: 22%;
+        left: 18%;
         }
         
         #yuthuber{
@@ -272,7 +273,7 @@ left: 57%;
         position: absolute;
         transform: translate(-50%,-50%);
         top: 40%;
-        left: 64%;
+        left: 60%;
 
         }
         .visibleh7{
