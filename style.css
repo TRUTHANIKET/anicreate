@@ -195,7 +195,7 @@ left: 57%;
 {
     position:absolute;
     transform: translate(-50%,-50%);
-    top: 150%;
+    top: 220%;
     left: 50%;
 }
 .yttexbox2 p{
@@ -210,11 +210,43 @@ left: 57%;
 
 
 
+.box1{
+
+    height: 280px;
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 5px 25px 25px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.box2{
+    height: 280px;
+    width: 320px;
+        background-color: rgb(255, 6, 6);
+        border-radius: 10px;
+        box-shadow: 5px 25px 25px 5px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+    }
+    .box3{
+      
+        height: 280px;
+        width: 320px;
+            background-color: rgb(40, 43, 255);
+            border-radius: 10px;
+            box-shadow: 5px 25px 25px 5px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
+        }
 
 
 
-
-
+.projects{
+    height: 299px;
+    background-color: black;
+    position: absolute;
+    transform: translate(-50%,-50%);
+   top: 350%;
+   left: 50%;
+}
 
 
 
@@ -297,6 +329,31 @@ left: 57%;
            display:none;
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* box section */
+
+
+        .box2{
+            top: 800%;
+            left: 50%;
+        }
+        .box3{
+            top: 800%;
+            left: 50%;
+        }
 
        
 }
