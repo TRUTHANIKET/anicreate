@@ -232,6 +232,15 @@ left: 57%;
 
  
 @media only screen and (max-width:760px){
+
+    .quickinfo{
+        height: 200px;
+        width: 45vw;
+    }
+    .quickinfo:hover{
+        height: 200px;
+        width: 45vw;
+    }
     .yttexbox1 p{
     font-size: 18px;
     font-weight: bold;
